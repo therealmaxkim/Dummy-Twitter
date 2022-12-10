@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "css-loader": "^3.4.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jsx-loader": "^0.13.2",
     "mongodb": "^3.5.4",
     "react": "^16.8.6",
